@@ -43,6 +43,6 @@ The following files are available for the train and test data. Their description
 
 5. Extracted the measurements on the mean and standard deviation for each measurement.
 
-6. created a second, independent tidy data set with the average of each variable for each activity and each subject. 
+6. created a second, independent tidy data set. 
 
 
